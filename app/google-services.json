@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52082522474",
+    "firebase_url": "https://populant-c147b.firebaseio.com",
+    "project_id": "populant-c147b",
+    "storage_bucket": "populant-c147b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52082522474:android:1ce5a0c571d535d1e98d13",
+        "android_client_info": {
+          "package_name": "com.example.populant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52082522474-e56enh39u57tdf9054tdsl7erfv205pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.populant",
+            "certificate_hash": "1f64ca0eefa62f241cf69ba32407d08834c56e9a"
+          }
+        },
+        {
+          "client_id": "52082522474-rek0oe7c2j8fsvhk83tj74uua6h8bagn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAT3rkEJJDcvjaJESVt2-8sRkE6RZrzkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52082522474-rek0oe7c2j8fsvhk83tj74uua6h8bagn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
